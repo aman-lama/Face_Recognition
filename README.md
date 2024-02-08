@@ -3,6 +3,10 @@ This is a OpenCV based Face Recognition system.
 
 run image.py to Start!!
 
+```bash
+python image.py
+```
+
 To Start:
 
 1. Login as Admin:
